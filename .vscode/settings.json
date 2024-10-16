@@ -1,0 +1,11 @@
+{
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+   },
+   "terminal.integrated.defaultProfile.linux": "zsh",
+   "prettier.requireConfig": true,
+   "gitlens.defaultDateShortFormat": "YYYY-MM-DD",
+   "gitlens.defaultDateFormat": "YYYY-MM-DDTHH:mm:ss",
+   "gitlens.defaultTimeFormat": "HH:mm:ss"
+}
